@@ -30,6 +30,8 @@ more details, see the [SciJava web site](http://scijava.org/).
 
 For more details on the project, see the [ImageJ web site](http://imagej.net/).
 
+Hey we are making changes here.
+
 
 # LICENSING
 
